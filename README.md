@@ -1,5 +1,6 @@
 # 💫 About Me:
-Results-driven IAM Support Analyst at Tata Consultancy Services with 3+ years of experience managing identity lifecycle, access provisioning, and IT ticket resolution. Transitioning into Data Science with hands-on project experience in NLP, machine learning, and predictive analytics. Combines deep IT domain expertise with Python, SQL, and scikit-learn skills to build data-driven solutions for real-world operational problems. Seeking a Junior Data Scientist role where IAM domain knowledge and ML skills drive measurable business impact.<br>
+Results-driven IAM Support Analyst at Tata Consultancy Services with 3+ years of experience managing identity lifecycle, access provisioning, and IT ticket resolution. Transitioning into Data Science with hands-on project experience in NLP, machine learning, and predictive analytics. Combines deep IT domain expertise with Python, SQL, and scikit-learn skills to build data-driven solutions for real-world operational problems. Seeking a Junior Data Scientist role where IAM domain knowledge and ML skills drive measurable business impact.Currently pursuing MBA in Finance & Business Analytics (ISBR, Bangalore).
+<br>
 
 
 ## 🌐 Socials:
